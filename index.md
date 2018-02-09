@@ -8,3 +8,9 @@ This is my 360 image
 ###Camera Effects
 
 ![filter](overlay.png?raw=true "Optional Title")
+
+
+
+###StoryScape Your On A Fridge
+
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/idovr/your-on-a-fridge" ></script>
